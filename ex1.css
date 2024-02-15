@@ -1,0 +1,14 @@
+.bulb {
+    height: 300px;
+    width: 300px;
+    border-radius: 50%;
+    border: 4px solid black;
+  }
+  #on{
+    padding: 20px;
+    margin:50px;
+  }
+  #off{
+    padding: 20px;
+    margin:50px;
+  }
